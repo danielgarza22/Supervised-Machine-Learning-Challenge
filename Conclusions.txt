@@ -1,0 +1,10 @@
+Supervised Machine Learning
+
+This task uses the Logistic Regression model and the Random Forest Classifier model on loans data from the LendingClub to predict if a loan will be high rist or not. It uses the two models on scaled and unscaled data to evaluate and compare the model scores.
+
+Conclusions
+- In the unscaled data, the Random Forest Classifier model performed a little over 50%
+
+- In the scaled data, noticed that with the logistic regretion, it improved to almost 76%.
+
+- The Random forest Classifier on the scaled data, the performance went down to 62%. Compaired to the Random Forest Classifier stay almost the same with a small difference.
